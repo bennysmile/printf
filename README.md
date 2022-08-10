@@ -1,3 +1,8 @@
+## Authors
+- Bernard Owoo
+- Benard Gomashie
+
+
 # _printf
 '''_printf''' is our teams custom implementation of the function printf from the stdio in C.
 
@@ -12,7 +17,7 @@ To use the '''_printf function''', to compile all .c files in the repository and
 
 ### Example `main.c`:
 ```
-#include "holberton.h"
+#include "main.h"
 
 int main(void)
 {
@@ -20,4 +25,5 @@ int main(void)
 
     return (0);
 }
+
 ```
